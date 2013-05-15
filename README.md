@@ -3,7 +3,7 @@ Radar Minimal
 
 A simplification of the "RadarClock" pebble watchface coded by 8a22a and designed by Elzor.
 
-V1.0-Modifications
+V1.0-Modifications:
 -Removed Text Around Radar Screen
 -Removed Minute Hand
 -Switched Old Minute Hand to be New Hour Hand
